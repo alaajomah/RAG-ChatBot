@@ -3,7 +3,7 @@
 A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF course materials and ask questions about their content.
 
 The system retrieves the most relevant document sections using FAISS vector search and generates context-aware answers using OpenAI language models.
-[![Hugging Face Spaces](https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow)](h[ttps://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME](https://huggingface.co/spaces/alaa03/GenerativeAI-Course-Study-Chatbot)
+## [![Hugging Face Spaces](https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow)](https://huggingface.co/spaces/alaa03/GenerativeAI-Course-Study-Chatbot)
 
 ## Features
 
